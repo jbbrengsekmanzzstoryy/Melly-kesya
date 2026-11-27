@@ -1,0 +1,4 @@
+project_id = "melly-media"
+
+[functions.media]
+verify_jwt = false
